@@ -1,3 +1,5 @@
 {
-  "sha256_url": "https://raw.githubusercontent.com/hossambotff/hossamghost/refs/heads/main/kai.txt"
+  "auth": {
+    "signature_url": "https://raw.githubusercontent.com/hossambotff/hossamghost/refs/heads/main/kai.txt"
+  }
 }
